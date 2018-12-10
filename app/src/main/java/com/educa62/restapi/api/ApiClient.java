@@ -1,4 +1,4 @@
-package osg.id.android_restapi.api;
+package com.educa62.restapi.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

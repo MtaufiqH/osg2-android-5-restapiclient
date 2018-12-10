@@ -1,8 +1,8 @@
-package osg.id.android_restapi.api;
+package com.educa62.restapi.api;
 
 import java.util.List;
 
-import osg.id.android_restapi.model.Users;
+import com.educa62.restapi.model.Users;
 import retrofit2.Call;
 import retrofit2.http.GET;
 

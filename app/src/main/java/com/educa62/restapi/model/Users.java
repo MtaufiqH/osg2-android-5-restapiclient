@@ -1,4 +1,4 @@
-package osg.id.android_restapi.model;
+package com.educa62.restapi.model;
 
 import com.google.gson.annotations.SerializedName;
 

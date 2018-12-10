@@ -1,4 +1,4 @@
-package osg.id.android_restapi;
+package com.educa62.restapi;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -12,10 +12,10 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-import osg.id.android_restapi.adapter.ListUserAdapter;
-import osg.id.android_restapi.api.ApiClient;
-import osg.id.android_restapi.api.ApiInterface;
-import osg.id.android_restapi.model.Users;
+import com.educa62.restapi.adapter.ListUserAdapter;
+import com.educa62.restapi.api.ApiClient;
+import com.educa62.restapi.api.ApiInterface;
+import com.educa62.restapi.model.Users;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

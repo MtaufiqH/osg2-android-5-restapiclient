@@ -1,15 +1,7 @@
-package osg.id.android_restapi;
+package com.educa62.restapi;
 
-import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import osg.id.android_restapi.model.Users;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class DetailUserActivity extends AppCompatActivity {
 

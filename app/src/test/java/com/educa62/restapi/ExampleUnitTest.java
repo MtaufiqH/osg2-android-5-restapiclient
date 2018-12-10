@@ -1,4 +1,4 @@
-package osg.id.android_restapi;
+package com.educa62.restapi;
 
 import org.junit.Test;
 

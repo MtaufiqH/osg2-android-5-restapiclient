@@ -1,4 +1,4 @@
-package osg.id.android_restapi.adapter;
+package com.educa62.restapi.adapter;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import osg.id.android_restapi.R;
-import osg.id.android_restapi.model.Users;
+import com.educa62.restapi.R;
+import com.educa62.restapi.model.Users;
 
 public class ListUserAdapter extends RecyclerView.Adapter<ListUserAdapter.MyViewHolder> {
 
